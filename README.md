@@ -10,6 +10,7 @@ For Front-End:
 - Recoil
 - Hooks
 - Styled components
+- Deployed to netlify
 
 For Back-End:
 - Node with Express
