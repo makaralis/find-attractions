@@ -1,5 +1,8 @@
  # welcome to find-attractions web app
  
+ The app helps you to find and save your favorite locations around you. 
+ You can save a location by clicking on the star icon of each attraction.
+ 
  Check-out the deployment link: https://find-attractions.netlify.app/
 
 
